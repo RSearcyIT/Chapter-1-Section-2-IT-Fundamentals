@@ -8,3 +8,9 @@ Understanding the Help Desk Profession and the Role of a Help Desk Technician
 The technician locates the user's account, unlocks it if necessary, and resets the password according to company security policies. A temporary password is securely provided to the user, who is required to create a new private password. The technician then confirms successful access and documents the resolution in the support ticket.
 
 - **Software Troubleshooting** - Practical methods for diagnosing and resolving software, operating system, configuration, and compatibility issues.
+
+- **Printer Support** - Practical methods for installing, configuring, and troubleshooting local and network printers.
+
+- **Network Connectivity Issues** - The technician diagnoses and resolves problems that prevent computers, printers, and other devices from connecting to the internet or shared network resources.
+
+- **Remote Support** - The technician uses approved remote-access and communication tools to diagnose and resolve a range of technical issues without being physically present at the user's location.
