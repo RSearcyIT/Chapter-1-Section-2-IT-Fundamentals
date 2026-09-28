@@ -14,3 +14,10 @@ The technician locates the user's account, unlocks it if necessary, and resets t
 - **Network Connectivity Issues** - The technician diagnoses and resolves problems that prevent computers, printers, and other devices from connecting to the internet or shared network resources.
 
 - **Remote Support** - The technician uses approved remote-access and communication tools to diagnose and resolve a range of technical issues without being physically present at the user's location.
+
+## Soft Skills 
+The interpersonal qualities a technician uses to communicate professionally and assist users effectively.
+
+### **Examples**
+
+-
