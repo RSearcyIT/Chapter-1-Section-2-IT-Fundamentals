@@ -20,4 +20,6 @@ The interpersonal qualities a technician uses to communicate professionally and 
 
 ### **Examples**
 
--
+- Empathy
+- Patience
+- Active Listening 
